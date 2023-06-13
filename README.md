@@ -19,8 +19,7 @@ This project explores and analyzes the pitches made in two seasons of Shark Tank
 -Investigated the geographical distribution of the entrepreneurs and the impact on their likelihood of securing investments.
 -Analyzed the relationship between investor engagement, and funding outcomes.
 -Identified trends, patterns, and outliers within the dataset to uncover valuable insights.
-
-![General Overview Report]([https://example.com/path/to/image.png](https://drive.google.com/file/d/1c2LSNLlruVHFAxyn1NbtiRc5ZiVHSCg5/view?usp=drive_link))
+![General Overview Report](General Overview.png)
 
 
 ## Installation
