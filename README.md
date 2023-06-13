@@ -13,11 +13,11 @@ This project explores and analyzes the pitches made in two seasons of Shark Tank
 
 ## Key Highlights
 
-1.Utilized Power BI to create two interactive reports presenting the analysis findings.
-2.Examined the pitches from multiple perspectives, including business sectors, investment amounts, success rates, and investor preferences.
-3.Explored the characteristics of successful pitches and identified common factors contributing to their success.
-4.Investigated the geographical distribution of the entrepreneurs and the impact on their likelihood of securing investments.
--Analyzed the relationship between investor engagement, and funding outcomes.
+1.Utilized Power BI to create two interactive reports presenting the analysis findings.  
+2.Examined the pitches from multiple perspectives, including business sectors, investment amounts, success rates, and investor preferences.  
+3.Explored the characteristics of successful pitches and identified common factors contributing to their success.  
+4.Investigated the geographical distribution of the entrepreneurs and the impact on their likelihood of securing investments.  
+-Analyzed the relationship between investor engagement, and funding outcomes.  
 -Identified trends, patterns, and outliers within the dataset to uncover valuable insights.
 
 
