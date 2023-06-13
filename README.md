@@ -17,8 +17,13 @@ This project explores and analyzes the pitches made in two seasons of Shark Tank
 2.Examined the pitches from multiple perspectives, including business sectors, investment amounts, success rates, and investor preferences.  
 3.Explored the characteristics of successful pitches and identified common factors contributing to their success.  
 4.Investigated the geographical distribution of the entrepreneurs and the impact on their likelihood of securing investments.  
--Analyzed the relationship between investor engagement, and funding outcomes.  
--Identified trends, patterns, and outliers within the dataset to uncover valuable insights.
+5.Analyzed the relationship between investor engagement, and funding outcomes.  
+6.Identified trends, patterns, and outliers within the dataset to uncover valuable insights.
+
+
+![General Overview](https://github.com/Killroy97/Shark_TankIN_PBI/assets/132211845/4490fb79-5886-41b9-9a23-f43eb7c67fb2)
+
+![Finacial Insights](https://github.com/Killroy97/Shark_TankIN_PBI/assets/132211845/e3f68bde-b9ef-4b07-bd85-6df2f71f16eb)
 
 
 
