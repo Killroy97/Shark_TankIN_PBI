@@ -39,7 +39,7 @@ This project explores and analyzes the pitches made in two seasons of Shark Tank
 2. Slicers are available for you to filter according to you analysis needs for financial insghts. 
 ![Slicers](https://github.com/Killroy97/Shark_TankIN_PBI/assets/132211845/251d2ec3-4978-4330-a1b3-ced143be06af)
 
-3. To filter the reports based on a specific metro, simply select the portion in any visual to proceed. The report will then refresh according to your selection. 
+3. To filter the reports based on a specific metric, simply select the portion in any visual to proceed. The report will then refresh according to your selection. 
 ![Filtering](https://github.com/Killroy97/Shark_TankIN_PBI/assets/132211845/76b30795-9db4-47eb-9b4d-e5ede7a3c1ff)
 
  
