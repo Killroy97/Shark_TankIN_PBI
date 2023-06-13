@@ -20,6 +20,9 @@ This project explores and analyzes the pitches made in two seasons of Shark Tank
 -Analyzed the relationship between investor engagement, and funding outcomes.
 -Identified trends, patterns, and outliers within the dataset to uncover valuable insights.
 
+![General Overview Report]([https://example.com/path/to/image.png](https://drive.google.com/file/d/1c2LSNLlruVHFAxyn1NbtiRc5ZiVHSCg5/view?usp=drive_link))
+
+
 ## Installation
 
 -The Interactive reports is available for PowerBI users. The .pbix file can be downloaded and imported directly into either PowerBi service or PowerBi desktop. If you are not yet a powerBi user, you can sign up at [PowerBI](https://app.powerbi.com)  with an organization email. 
