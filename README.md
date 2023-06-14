@@ -1,4 +1,4 @@
-#Exploratory data Analysis and Power BI reporting for Shark Tank IN 
+**Exploratory data Analysis and Power BI reporting for Shark Tank IN** 
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
